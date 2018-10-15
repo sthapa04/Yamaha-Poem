@@ -2,5 +2,6 @@ The RainBow
 
 purple
 pink
+new color
 yellow
 red.
